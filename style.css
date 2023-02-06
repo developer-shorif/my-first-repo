@@ -1,0 +1,36 @@
+body {
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+.container {
+    display: flex;
+    background-repeat: no-repeat;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+.half-width {
+    /* width: 50%; */
+}
+
+.half-width img {
+    width: 50%;
+    margin-left: 40%;
+
+}
+
+
+
+.nobin {
+    background-image: url(images/header_bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.main-container {
+    display: flex;
+    /* justify-content: center; */
+}
